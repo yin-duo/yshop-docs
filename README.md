@@ -11,7 +11,7 @@ Yshop（简称 YS）是一套基于 ThinkPHP6.0 框架开发的高性能开源�
 **Yshop**
 
 ## 预览
-[后台 Demo 预览](https://demo.yshop.yunyingbao.net/admin "后台 Demo 预览") | [RestAPI 接口调试](https://demo.yshop.yunyingbao.net/api "RestAPI 接口调试") | [经典配套款](./white/) | [深灰商务款](./gray/)
+[后台 Demo 预览](https://demo.yshop.yunyingbao.net/admin "后台 Demo 预览") | [RestAPI 接口调试](https://demo.yshop.yunyingbao.net/api "RestAPI 接口调试") | [经典配套款](https://doc.yin-duo.com/white/) | [深灰商务款](https://doc.yin-duo.com/gray/)
 
 ## 文档
 [文档中心](https://doc.yin-duo.com "Yshop文档中心")
