@@ -1,6 +1,3 @@
----
-title: 商城框架系统开发手册
----
 <p align="center">
     <img src="https://yinduogw.oss-cn-shanghai.aliyuncs.com/static/modules/cms/images/banner.png"  alt="yshop_banner"/>
 </p>
